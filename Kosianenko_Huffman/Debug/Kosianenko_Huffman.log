@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+F:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\MyForm.h(206,12): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+F:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\MyForm.h(253,12): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+F:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\MyForm.h(255,23): warning C4018: <: несоответствие типов со знаком и без знака
+F:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\MyForm.h(308,21): warning C4101: e: неиспользованная локальная переменная
+  Node.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kosianenko_Huffman.vcxproj -> F:\My\Programs\C++\Kosianenko_Huffman\Debug\Kosianenko_Huffman.exe

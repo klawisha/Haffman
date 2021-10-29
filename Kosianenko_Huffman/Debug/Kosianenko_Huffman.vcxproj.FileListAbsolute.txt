@@ -1,0 +1,6 @@
+D:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\Debug\Kosianenko_Huffman.vcxprojAssemblyReference.cache
+D:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\Debug\KosianenkoHuffman.MyForm.resources
+D:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\Debug\Kosianenko_Huffman.vcxproj.GenerateResource.cache
+F:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\Debug\Kosianenko_Huffman.vcxproj.AssemblyReference.cache
+F:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\Debug\KosianenkoHuffman.MyForm.resources
+F:\My\Programs\C++\Kosianenko_Huffman\Kosianenko_Huffman\Debug\Kosianenko_Huffman.vcxproj.GenerateResource.cache
